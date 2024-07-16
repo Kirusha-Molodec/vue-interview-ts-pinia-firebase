@@ -1,4 +1,4 @@
-## Большой проект Записи интервью на Vue3 + TS + PINIA + firebase
+## Большой проект Записи интервью на Vue3 + TS + PINIA + firebase + библиотеки PrimeVue
 
 ### Необходимая настройка перед работой
 
@@ -17,7 +17,7 @@ const firebaseConfig = {
 
 В проекте есть **авторизация**,**добавление записей**, **редактирование и удаление записей**
 
-## Big Interview note project on Vue3 + TS + PINIA + firebase
+## Big Interview note project on Vue3 + TS + PINIA + firebase + PrimeVue Lib
 
 ### Necessary setup before work
 
